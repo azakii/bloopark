@@ -207,8 +207,10 @@
     margin-top: 5px;
     margin-left: 10px;
     }
-    &:hover {
+    &:hover, &:focus {
         background-color: $color-darkGray;
+        border: 0;
+        outline: none;
     }
 }
 
