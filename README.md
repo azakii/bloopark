@@ -15,20 +15,20 @@ Step of Design:
 UI Development Tools:
 -------
 
-1- HTML5
-2- Bootstrap 4
-3- SASS
-4- CSS3
-5- JQuery
-6- Gruntfile
-7- NPM
-8- SCOUT
+*  HTML5
+*  Bootstrap 4
+*  SASS
+*  CSS3
+*  JQuery
+*  Gruntfile
+*  NPM
+*  SCOUT
 
 
 Step of UI Development:
 -------
 
-Markup HTML, using bootstrap 4 with the grids, variables, Mixins, JQuery Scripts...
+Markup [HTML](https://github.com/azakii/bloopark/tree/master/Html), using bootstrap 4 with the grids, variables, Mixins, JQuery Scripts...
 
 
 Step of UI Support
