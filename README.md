@@ -1,5 +1,5 @@
 # Bloopark
-Assignment test Redesign [webpage](https://www.celticgold.eu/en/gold-bar-50g-valcambi-esg-combibar.html?___from_store=b_de)
+technical assignment.. Redesign [webpage](https://www.celticgold.eu/en/gold-bar-50g-valcambi-esg-combibar.html?___from_store=b_de)
 ===============
 
 Step of Design:
